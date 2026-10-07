@@ -9,7 +9,7 @@
 | Python | 3.11.9 (CPython, Microsoft Store distribution) |
 | Java | OpenJDK 21.0.6 (Temurin-21.0.6+7) |
 | C compiler | gcc 16.2.0 (MSYS2) |
-| Power / thermal | Laptop, plugged in, "High performance" power plan (TO CONFIRM) |
+| Power / thermal | Laptop, plugged in, "High performance" power plan |
 | Affinity | Single thread pinned to one performance core (TO CONFIRM in harness) |
 
 ## Fixed settings
@@ -17,6 +17,8 @@
 - Loop order: i-j-k, row-major storage
 - Single thread, no matrix-multiplication libraries in the timed region
 - Input seed: 42 (see `data/manifest.json`)
+- C compile command: `gcc -O2 -o build/matmul_c.exe src/c/matmul.c` (no -march=native, no -ffast-math)
+- Power: laptop plugged in, "High performance" power plan during all measurements
 
 ## Budgets
 - Time: 5 minutes per single run (otherwise recorded as timeout)
