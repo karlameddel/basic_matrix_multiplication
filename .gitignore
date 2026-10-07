@@ -1,0 +1,17 @@
+# Input matrices are regenerated with scripts/generate_inputs.py
+data/*
+!data/manifest.json
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Java / C build outputs
+*.class
+*.o
+*.exe
+build/
+bin/

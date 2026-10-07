@@ -1,0 +1,42 @@
+{
+  "10": {
+    "A": "8f11f4003257b99480d099b3b301e5d1c586d8c9397989e167e5e147b46c94f3",
+    "B": "d2154b379dcb44922e6591d7f37918ae4e1048408c9d292bb9765ba2fb355f2c"
+  },
+  "100": {
+    "A": "737e561e2e9566a6a4da0336df698fea014864192a6cf8fb67d0ce87ffd72537",
+    "B": "37ddcb9e59fdc266d3d1b26629ae7ed878d0340c473cf2bdc7c654906b858747"
+  },
+  "1000": {
+    "A": "21815a5d768d8bfd910f746aadb79ec08e6d1c272ee29b3e5b4d84d58148e3c1",
+    "B": "48fdd960b0f073dbd98097a1db1e874af6280ac2d77f0ffd00685d03b185cbeb"
+  },
+  "200": {
+    "A": "68c0524181d613610625f97fbd02e016876dddf9eb696b9b097898a6473b9efb",
+    "B": "e02f5c38f452c3b5881eea1c057351bb974ebb07734c8c91268b4840090e72ce"
+  },
+  "2000": {
+    "A": "c7d69464d1e02fc2e19b9555bfc7898cc7a9ca41b1809dcf0902b442e6457252",
+    "B": "9c42c0c4f89830ecfb3648aa88ceaf3db867cb8692d5d5b80fa83d9159bc526c"
+  },
+  "4000": {
+    "A": "fb0abc9a48d72f3161106a605c09661c0d631765699f71938ee42f50c56e94af",
+    "B": "4eb7bf818fd3e1e8d5c7f463d30cfb9570fb893dbe5afe57dfa59139636ee619"
+  },
+  "50": {
+    "A": "932d9d18d1453623de7930ed3b4859fc9df9a4852eed56f0e7fb0c733525dded",
+    "B": "8b53c9fe0caa082246507e5b602a9498e3d5c1a6ebb86432c2651969c01697c4"
+  },
+  "500": {
+    "A": "454af704d297f55aab377c432d122ea766b5811ad2f61fc4029f62682d6f6d4b",
+    "B": "dedb05c49a07ca3977fde42078f2ab6cb82a6d535e2918f7d891b2a35a41b6c9"
+  },
+  "_meta": {
+    "distribution": "uniform [0, 1)",
+    "dtype": "float64 little-endian",
+    "generator": "numpy.random.default_rng (PCG64)",
+    "layout": "row-major, no header",
+    "numpy_version": "2.2.6",
+    "seed": 42
+  }
+}
