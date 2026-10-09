@@ -14,7 +14,7 @@
 
 ## Fixed settings
 - Numeric type: float64 (`double`)
-- Loop order: i-j-k, row-major storage
+- Loop order: i-j-k, rowU-major storage
 - Single thread, no matrix-multiplication libraries in the timed region
 - Input seed: 42 (see `data/manifest.json`)
 - C compile command: `gcc -O2 -o build/matmul_c.exe src/c/matmul.c` (no -march=native, no -ffast-math)
