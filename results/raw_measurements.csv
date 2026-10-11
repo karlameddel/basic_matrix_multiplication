@@ -1,3 +1,4 @@
+timestamp,language,n,numeric_type,threads,timer,rep,seconds,checksum,warmup,reps_planned,affinity
 2026-10-11T18:13:25,C,10,float64,1,kernel_only,0,0.000000700,2.565504740033e+02,1,5,2+4+6+8
 2026-10-11T18:13:25,C,10,float64,1,kernel_only,1,0.000000700,2.565504740033e+02,1,5,2+4+6+8
 2026-10-11T18:13:25,C,10,float64,1,kernel_only,2,0.000000600,2.565504740033e+02,1,5,2+4+6+8
