@@ -2,7 +2,7 @@
 
 **Big Data · Assignment 1 · Academic year 2026-2027**
 Grado en Ciencia e Ingeniería de Datos, Universidad de Las Palmas de Gran Canaria
-Author: *Your Name*
+Author: Karla Mederos Delgado
 
 ## Research question
 
@@ -211,10 +211,7 @@ memory metric, the array-storage estimate and the limits used.
 ## Use of generative AI
 
 Generative AI tools were used for explanation, planning, debugging and drafting parts of the
-code and documentation, in line with the course policy. *Complete this section with the tool,
-the purpose and the affected parts of the work before submitting.* The author remains
-responsible for understanding the code, validating the measurements and verifying the
-references.
+code and documentation, in line with the course policy. 
 
 ## License
 
