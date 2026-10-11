@@ -1,0 +1,4 @@
+language,largest_completed_n,largest_attempted_n,failures
+C,2000,4000,n=4000:timeout
+Java,2000,4000,n=4000:timeout
+Python,1000,4000,n=2000:timeout; n=4000:skipped_after_failure

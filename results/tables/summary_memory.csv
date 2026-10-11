@@ -1,0 +1,21 @@
+language,n,peak_MB,array_estimate_MB,note
+C,10,,0.002,not captured (process too short for 10 ms sampling)
+Java,10,43.446,0.002,
+Python,10,28.467,0.002,
+C,50,,0.060,not captured (process too short for 10 ms sampling)
+Java,50,44.216,0.060,
+Python,50,30.253,0.060,
+C,100,,0.240,not captured (process too short for 10 ms sampling)
+Java,100,43.577,0.240,
+Python,100,29.942,0.240,
+C,200,4.915,0.960,
+Java,200,46.408,0.960,
+Python,200,33.145,0.960,
+C,500,9.953,6.000,
+Java,500,55.169,6.000,
+Python,500,58.581,6.000,
+C,1000,27.955,24.000,
+Java,1000,92.090,24.000,
+Python,1000,150.221,24.000,
+C,2000,99.865,96.000,
+Java,2000,235.311,96.000,
