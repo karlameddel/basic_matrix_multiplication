@@ -1,8 +1,6 @@
 # Basic Matrix Multiplication in Python, Java and C
 
 **Big Data · Assignment 1 · Academic year 2026-2027**
-Grado en Ciencia e Ingeniería de Datos, Universidad de Las Palmas de Gran Canaria
-Author: Karla Mederos Delgado
 
 ## Research question
 
