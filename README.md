@@ -69,8 +69,7 @@ are in [`docs/environment.md`](docs/environment.md).
 - Python 3.11 with the packages in `requirements.txt`
 - JDK 21 (`javac` and `java` on the `PATH`)
 - GCC (developed with MSYS2 UCRT64, gcc 16.2.0)
-- A laptop must be plugged in and set to its best performance mode. Close other
-  applications and do not use the machine during the benchmark.
+- For comparable results, plug the laptop in and select its best performance mode; the reported results were obtained on battery power (see docs/environment.md)
 
 ## How to reproduce
 
