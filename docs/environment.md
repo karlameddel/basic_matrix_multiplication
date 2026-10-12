@@ -10,7 +10,7 @@
 | NumPy / pandas / matplotlib / psutil | 2.2.6 / 3.0.0 / 3.10.6 / 7.0.0 |
 | Java | OpenJDK 21.0.6 (Temurin-21.0.6+7), default JIT (C2) |
 | C compiler | gcc 16.2.0 (MSYS2) |
-| Power / thermal | Laptop plugged in, "Best performance" power mode during all measurements |
+| Power / thermal | Laptop running on battery (not plugged in) during all measurements. Battery level and temperature not recorded. |
 
 ## Fixed settings
 - Numeric type: float64 (`double`)
