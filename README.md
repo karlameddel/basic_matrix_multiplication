@@ -1,6 +1,6 @@
 # Basic Matrix Multiplication in Python, Java and C
 
-**Big Data · Assignment 1 · Academic year 2026-2027**
+**Big Data - Assignment 1**
 
 ## Research question
 
